@@ -1,2 +1,4 @@
 Dockerfile
 .git
+bootstrap/cache/*
+/.idea
